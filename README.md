@@ -1,7 +1,8 @@
 # Web-stealer
 Простой стиллер на Flask для ознакомления с основами веб-безопасности.
 
-Python Flask
+![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
+![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)
 
 ## О проекте
 Web-stealer - это веб-приложение для образовательных целей, демонстрирующее принципы сбора и хранения данных, вводимых пользователями на веб-страницах.
