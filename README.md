@@ -1,15 +1,18 @@
 # Web-stealer
-Простой стиллер на Flask для ознакомления с основами веб-безопасности.
+
+A simple stealer built with Flask for learning the basics of web security.
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)
 
-## О проекте
-Web-stealer - это веб-приложение для образовательных целей, демонстрирующее принципы сбора и хранения данных, вводимых пользователями на веб-страницах.
+## About the Project
 
-### Возможности
-- Сбор логинов и паролей
-- Хранение данных в текстовом файле
-- REST API для отправки данных
-- Веб-интерфейс для просмотра собранных данных
-- Простая и понятная структура кода
+Web-stealer is a web application for educational purposes, demonstrating the principles of collecting and storing user-entered data from web pages.
+
+### Features
+
+- Collection of usernames and passwords
+- Data storage in a text file
+- REST API for data submission
+- Web interface for viewing collected data
+- Simple and clean code structure
